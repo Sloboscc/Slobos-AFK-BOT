@@ -1,15 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
-    "password": "",
-    "type": "offline"
-  },
+    "username": "bot",
+    "password": "Slbos",
+    "type": "offline"},
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
-  },
+    "ip": "chaossmps2-tict.aternos.me",
+    "port": 20840,
+    "version": "1.21.1},
   "position": {
     "enabled": true,
     "x": 0,
@@ -19,7 +17,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Slobos"
+      "password": "Slbos"
     },
     "anti-afk": {
       "enabled": true,
@@ -29,16 +27,12 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 500,
-      "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
-      ]
+      "messages": ["afk"]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 20000,
+    "auto-reconnect-delay": 200,
+    "max-reconnect-delay": 200,
     "periodic-rejoin": {
       "enabled": true,
       "min-interval": 20,
@@ -81,7 +75,7 @@
     "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
     "events": {
       "connect": true,
-      "disconnect": true,
+      "disconnect": false,
       "chat": false
     }
   },
