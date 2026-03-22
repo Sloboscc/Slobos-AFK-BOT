@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "Map_Survival_builder.aternos.me",
+    "port": 60940,
     "version": "1.21.1"
   },
   "position": {
