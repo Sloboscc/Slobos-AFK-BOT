@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "ryancoolbrodontjudge",
   "bot-account": {
-    "username": "Technoblade",
-    "password": "",
-    "type": "offline"
+    "username": "Ryaniscoolbrodontjudge",
+    "password": "ryankoolaid",
+    "type": "online"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "Ryan_is_cool64356374.aternos.me:21715",
+    "port": 21715,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -31,7 +31,7 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to Ryan!",
         "I like to play Minecraft!"
       ]
     },
