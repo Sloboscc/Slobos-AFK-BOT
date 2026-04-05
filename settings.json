@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "TitanSlayer.aternos.me",
+    "port": 16843,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
