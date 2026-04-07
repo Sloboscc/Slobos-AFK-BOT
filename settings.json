@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "afk bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "dont toch",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "seclanYT.aternos.me",
+    "port": 12704,
     "version": "1.21.1"
   },
   "position": {
