@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "TheLeagueSMP.aternos.me",
+    "port": 54702,
     "version": "1.21.1"
   },
   "position": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Technoblade never dies",
+        "Not even close baby!",
+        "if i had a 100 more lives, i wish to be technoblade again!"
       ]
     },
     "chat-log": true,
