@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "Unstablelapsan.aternos.me",
+    "port": 57122,
     "version": "1.21.1"
   },
   "position": {
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Slobos"
+      "password": "africaner696969"
     },
     "anti-afk": {
       "enabled": true,
@@ -30,8 +30,8 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "GLORY TO JESUS CHRIT OUR LORD AND SAVIOR",
+        "HAIL MARY!",
         "I like to play Minecraft!"
       ]
     },
