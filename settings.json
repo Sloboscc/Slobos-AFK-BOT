@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "Unstablelapsan.aternos.me",
+    "port": 57122,
     "version": "1.21.1"
   },
   "position": {
@@ -28,10 +28,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 5000,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Glory to the state of Israel",
+        "I love you Benjamin Netanyahu!",
         "I like to play Minecraft!"
       ]
     },
