@@ -1,6 +1,6 @@
 {
   "name": "AFK Bot",
-  "bot-account": {
+  "bot-account": {icicjfj
     "username": "Technoblade",
     "password": "",
     "type": "offline"
@@ -8,7 +8,7 @@
   "server": {
     "ip": "slobos13.aternos.me",
     "port": 29195,
-    "version": "1.21.1"
+    "version": "26.1"
   },
   "position": {
     "enabled": true,
@@ -22,7 +22,7 @@
       "password": "Slobos"
     },
     "anti-afk": {
-      "enabled": true,
+      "enabled": false,
       "sneak": true
     },
     "chat-messages": {
