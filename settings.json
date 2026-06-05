@@ -2,13 +2,13 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Technoblade",
-    "password": "",
+    "password": "Slobos",
     "type": "offline"
   },
-  "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+  "server": {ArvMCPL
+    "ip": "ArvMCPL.aternos.me:",
+    "port": 57509,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -26,8 +26,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
