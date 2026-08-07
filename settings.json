@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Bot Boi",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "Rabies-SMP.aternos.me:48743",
+    "port": 48743,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -26,7 +26,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
@@ -78,7 +78,7 @@
   },
   "discord": {
     "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
+    "webhookUrl": "https://discord.com/api/webhooks/1535210321621295167/ABdJZXPcomBBWvUtjBvYKgWOKYk_hQWjxQv2DvQfyMhc3dMfsj-dcnAF5jCoh1e9NF8e",
     "events": {
       "connect": true,
       "disconnect": true,
