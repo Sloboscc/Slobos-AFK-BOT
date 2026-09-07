@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "FakkyMC.aternos.me:35652",
+    "port": 35652,
     "version": "1.21.1"
   },
   "position": {
